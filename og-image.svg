@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 314">
+  <rect width="600" height="314" fill="#0e111a"/>
+  <rect x="0" y="0" width="600" height="314" fill="#0e111a"/>
+  <line x1="40" y1="80" x2="560" y2="80" stroke="rgba(200,200,190,0.1)" stroke-width="1"/>
+  <text x="300" y="155" text-anchor="middle" font-size="36" fill="#d4ccc0" font-family="Georgia" font-weight="bold">Злибобская республика</text>
+  <text x="300" y="195" text-anchor="middle" font-size="24" fill="#8a7a66" font-family="Georgia" font-style="italic">Талон</text>
+  <line x1="40" y1="230" x2="560" y2="230" stroke="rgba(200,200,190,0.1)" stroke-width="1"/>
+  <text x="300" y="275" text-anchor="middle" font-size="12" fill="#4a4a4a" font-family="Arial" letter-spacing="3">ПОЛНЫЙ ТЕКСТ</text>
+</svg>
